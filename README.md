@@ -22,7 +22,7 @@ interviewers, and customers—without requiring CUDA or TensorRT internals.
 
 ## 📘 Notebook
 
-👉 **[Open the TensorRT-LLM Explainer Notebook](notebooks/tensorrt_llm_explainer.ipynb)**
+👉 **[Open the TensorRT-LLM Explainer Notebook](notebooks/tensorrt_llm_explainer_notebook.ipynb)**
 
 The notebook includes:
 
