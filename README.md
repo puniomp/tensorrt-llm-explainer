@@ -20,9 +20,9 @@ interviewers, and customers—without requiring CUDA or TensorRT internals.
 
 ---
 
-## 📘 Notebook
+## Notebook
 
-👉 **[Open the TensorRT-LLM Explainer Notebook](notebooks/trt_llm_explainer_notebook.ipynb)**
+**[Open the TensorRT-LLM Explainer Notebook](notebooks/trt_llm_explainer_notebook.ipynb)**
 
 The notebook includes:
 
@@ -34,7 +34,7 @@ This is *not* a benchmarking repo—it's a teaching tool.
 
 ---
 
-## 🎯 Who This Is For
+## Who This Is For
 
 - Engineers learning transformer inference performance  
 - Candidates preparing for NVIDIA AI/SA interviews  
@@ -43,7 +43,7 @@ This is *not* a benchmarking repo—it's a teaching tool.
 
 ---
 
-## 💡 Key Topics Covered
+## Key Topics Covered
 
 - Memory-bound vs compute-bound decode  
 - Kernel fusion and Tensor Core utilization  
@@ -55,6 +55,6 @@ This is *not* a benchmarking repo—it's a teaching tool.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
